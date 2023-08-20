@@ -53,6 +53,7 @@ else:
         "LlamaModel",
         "LlamaPreTrainedModel",
         "LlamaForSequenceClassification",
+        "LlamaModelForMultipleChoice"
     ]
 
 
