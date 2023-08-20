@@ -2040,7 +2040,7 @@ else:
         ]
     )
     _import_structure["models.llama"].extend(
-        ["LlamaForCausalLM", "LlamaForSequenceClassification", "LlamaModel", "LlamaPreTrainedModel", "LlamaModelForMultipleChoice]
+        ["LlamaForCausalLM", "LlamaForSequenceClassification", "LlamaModel", "LlamaPreTrainedModel", "LlamaModelForMultipleChoice"]
     )
     _import_structure["models.longformer"].extend(
         [
